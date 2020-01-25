@@ -1,0 +1,10 @@
+flyer_name,product_name,unit_promo_price,uom,least_unit_for_promo,save_per_unit,discount,organic
+week_1_page_1,Ground Sirloin or Round,3.99,lb,1,4,0.5,0
+week_1_page_1,Blueberries,2.5,1 Pint,2,3.49,0.58,0
+week_1_page_2,Morning Rounds,3.99,6 Pack,1,0.5,0.11,0
+week_1_page_2,"Pinot Grigio, Rose, or Sparkling Wine",10.99,4 Pack Cans,1,2,0.15,0
+week_1_page_3,Brand Wide Sale,,,1,,0.25,0
+week_1_page_3,Omega 3,,,1,,0.2,0
+week_18_page_1,Beef Burger Patties,1,0.25 lb,10,1,0.5,0
+week_32_page_1,Roses Bouquet,14.99,1 Dozen,1,5,0.25,0
+week_32_page_1,Organic Blueberries,4.99,Half Pint,2,4.99,0.5,1
